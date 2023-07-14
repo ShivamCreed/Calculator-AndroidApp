@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C63365</color> <!-- Define your primary color -->
+    <color name="colorPrimaryDark">#B6134A</color> <!-- Define your primary dark color -->
+    <color name="colorAccent">#063B42</color> <!-- Define your accent color -->
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
